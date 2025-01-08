@@ -3,7 +3,7 @@ Small contained project showing an issue in Unity 6 where mesh renderers stop wo
 
 # Instructions
 
-Start project up and open "SampleScene.unity".
+Start project up and open "SampleScene.unity" with Unity version 6000.0.32
 
 Play the scene.
 
