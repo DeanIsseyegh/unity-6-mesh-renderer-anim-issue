@@ -15,4 +15,4 @@ Click "Destroy Animators" and notice how when the animator is destroyed, the Mes
 
 # Details
 
-This is a regression from Unity 2021, in which this not does not happen. The issue is ultimately that adding an animator to something (without no animations playing) should not make meshes suddennly become invinsible.
+This is a regression from Unity 2021, in which this not does not happen. The issue is ultimately that adding an animator to something (without the animations necessarily playing) should not make meshes suddennly become invinsible.
